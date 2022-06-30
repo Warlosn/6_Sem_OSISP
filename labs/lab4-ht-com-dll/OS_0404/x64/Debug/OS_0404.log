@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\GitHub\6_Sem_OSISP\labs\lab4-ht-com-dll\OS_0404\main.cpp(47,124): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitHub\6_Sem_OSISP\labs\lab4-ht-com-dll\OS_0404\main.cpp(53,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "D:\GitHub\6_Sem_OSISP\labs\lab4-ht-com-dll\x64\Debug\OS13_HTCOM.lib"

@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  ClassFactory.cpp
+  ComponentHT.cpp
+  dllmain.cpp
+  ExportFunctions.cpp
+  Registry.cpp
+D:\GitHub\6_Sem_OSISP\labs\lab4-ht-com-dll\OS13_HTCOM\Registry.cpp(144,27): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Создание кода...
+     Создается библиотека D:\GitHub\6_Sem_OSISP\labs\lab4-ht-com-dll\x64\Debug\OS13_HTCOM.lib и объект D:\GitHub\6_Sem_OSISP\labs\lab4-ht-com-dll\x64\Debug\OS13_HTCOM.exp
+  OS13_HTCOM.vcxproj -> D:\GitHub\6_Sem_OSISP\labs\lab4-ht-com-dll\x64\Debug\OS13_HTCOM.dll
